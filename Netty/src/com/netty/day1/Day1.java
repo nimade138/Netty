@@ -5,7 +5,11 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.channels.FileChannel;
-
+/**
+ * 分支代码
+ * @author Administrator
+ *
+ */
 public class Day1 {
 	/**
 	 * FileChannel文件复制
